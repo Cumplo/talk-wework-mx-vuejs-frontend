@@ -13,6 +13,8 @@ author:
 
 Se utilizó [Cleaver](https://github.com/jdan/cleaver) para crear la presentación y el theme [Cleaver Cumplo](https://github.com/Cumplo/cleaver-cumplo) para la línea gráfica corporativa. Archivo base: `wework.md`.
 
+![](https://i.imgur.com/s0jibbK.jpg)
+
 ### License
 
 [MIT](https://opensource.org/licenses/MIT)
